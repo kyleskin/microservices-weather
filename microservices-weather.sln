@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudWeather.Report", "Clou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudWeather.Temperature", "CloudWeather.Temperature\CloudWeather.Temperature.csproj", "{3D51C590-96F0-49F7-BF36-0EF9C66AC525}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudWeather.Precipitation.UnitTests", "CloudWeather.Precipitation.UnitTests\CloudWeather.Precipitation.UnitTests.csproj", "{F623A88F-42AA-4A70-8F59-9B1D85109D6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{3D51C590-96F0-49F7-BF36-0EF9C66AC525}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D51C590-96F0-49F7-BF36-0EF9C66AC525}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D51C590-96F0-49F7-BF36-0EF9C66AC525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F623A88F-42AA-4A70-8F59-9B1D85109D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F623A88F-42AA-4A70-8F59-9B1D85109D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F623A88F-42AA-4A70-8F59-9B1D85109D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F623A88F-42AA-4A70-8F59-9B1D85109D6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

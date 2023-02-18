@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{3311E1EA-FEAE-4949-BE85-26EA25AC974A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CloudWeather.Precipitation.UnitTests/Systems/TestPrecipitationController.cs">
+    <Files>
+      <File FileName="CloudWeather.Precipitation.UnitTests/Systems/TestPrecipitationController.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="microservices-weather" expanded="True">
+            <Node name="CloudWeather.Precipitation.UnitTests" expanded="True">
+              <Node name="Systems" expanded="True">
+                <Node name="TestPrecipitationController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="microservices-weather" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CloudWeather.Dataloader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
